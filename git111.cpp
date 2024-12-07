@@ -7,4 +7,5 @@ int main () {
     return 0;
     cout << "sassasa";
     cout << "mobail lejen" << endl;
+    cout << "sakini wardana";
 }
