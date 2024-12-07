@@ -5,5 +5,5 @@ int main () {
     cout << "Josss";
 
     return 0;
-    
+    cout << "sassasa";
 }
